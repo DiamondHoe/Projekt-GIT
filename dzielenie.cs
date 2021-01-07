@@ -1,5 +1,6 @@
 case "dz":
-    Consollle.WriteLine($"Twoj wynik: {num1} / {num2} = " + (num1 / num2));
+    Console.WriteLine($"Twoj wynik: {num1} / {num2} = " + (num1 / num2));
+
     //elo
     //cmt2
     //aha
