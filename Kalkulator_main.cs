@@ -19,7 +19,7 @@ namespace Calculator
 
             // Ask the user to type the second number.
             Console.WriteLine("Wpisz drugą liczbe, a następnie wciśnij enter.");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToInt32(Console.ReadLine());//Pobranie 2 liczby
 
             // Ask the user to choose an option.
             Console.WriteLine("Wybierz operacje z poniższej listy:");
