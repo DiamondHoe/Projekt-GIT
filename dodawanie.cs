@@ -23,6 +23,7 @@ break;
 ﻿case "d":
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2))
 break;
 >>>>>>> 4a0d06f (Kod dodawania)
@@ -31,6 +32,9 @@ break;
 =======
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2)); //Funkcja wykonująca dielenie
 >>>>>>> cbfb2c6 (Dodanie komentarza do kodu)
+=======
+                    Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2)); //Funkcja wykonująca dzielenie
+>>>>>>> d48be7e (Poprawa bledu ortograficznego)
 break;
 <<<<<<< HEAD
 >>>>>>> 044d677 (Poprawka kodu)
