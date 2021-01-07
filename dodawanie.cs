@@ -21,6 +21,11 @@ break;
 >>>>>>> a9b90f2 (Ou je)
 =======
 ﻿case "d":
+<<<<<<< HEAD
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2))
 break;
 >>>>>>> 4a0d06f (Kod dodawania)
+=======
+                    Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2));
+break;
+>>>>>>> 044d677 (Poprawka kodu)
