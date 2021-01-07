@@ -1,3 +1,4 @@
 case "m":
-Console.WriteLine($"Twój wynik: {numerek1} * {numerek2} = " + (numerek1 * numerek2));
+Console.WriteLine($"Twój wynik: {numer1} * {numer2} = " + (numer1 * numer2));
+
 break;
