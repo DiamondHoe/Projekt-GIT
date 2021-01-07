@@ -28,4 +28,7 @@ break;
 =======
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2));
 break;
+<<<<<<< HEAD
 >>>>>>> 044d677 (Poprawka kodu)
+=======
+>>>>>>> 4fc6954 (Brak spacji na końcu kodu Poprawka v2)
