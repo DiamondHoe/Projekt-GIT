@@ -24,6 +24,7 @@ break;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2))
 break;
 >>>>>>> 4a0d06f (Kod dodawania)
@@ -35,6 +36,9 @@ break;
 =======
                     Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2)); //Funkcja wykonująca dzielenie
 >>>>>>> d48be7e (Poprawa bledu ortograficznego)
+=======
+                    Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2)); //Funkcja wykonująca dzielenie Paweł jest za arką gdynią
+>>>>>>> b918ed0 (Dodanie prawdy o Pawle)
 break;
 <<<<<<< HEAD
 >>>>>>> 044d677 (Poprawka kodu)
