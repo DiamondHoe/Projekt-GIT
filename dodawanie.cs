@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿                    Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2)); //Funkcja wykonująca dzielenie Norbert szefie proszę mnie nie zwalniac z pracy
 break;
 =======
@@ -18,3 +19,8 @@ break;
 >>>>>>> 9f86ac9 (UUUUUU)
 break;
 >>>>>>> a9b90f2 (Ou je)
+=======
+﻿case "d":
+                    Console.WriteLine($"Twój wynik: {num1} + {num2} = " + (num1 + num2))
+break;
+>>>>>>> 4a0d06f (Kod dodawania)
