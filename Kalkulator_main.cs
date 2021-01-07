@@ -1,4 +1,8 @@
 ﻿using System;
+using dodawanie;
+using odejmowanie;
+using mnozenie;
+using dzielenie;
 
 namespace Calculator
 {
