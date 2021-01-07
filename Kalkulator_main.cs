@@ -15,7 +15,7 @@ namespace Calculator
 
             // Ask the user to type the first number.
             Console.WriteLine("Wpisz liczbę, a następnie wciśnij enter.");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToInt32(Console.ReadLine());//Pobranie 1 liczby 
 
             // Ask the user to type the second number.
             Console.WriteLine("Wpisz drugą liczbe, a następnie wciśnij enter.");
